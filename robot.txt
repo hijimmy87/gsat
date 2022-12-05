@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://gsat.yuanowo.xyz/sitemap.xml
+Sitemap: https://gsat.yuanowo.xyz/sitemap.xml
